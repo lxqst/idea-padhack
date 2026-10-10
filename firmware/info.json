@@ -15,6 +15,10 @@
     "oled":{
       "driver":"ssd1306"
     },
+  "i2c":{
+    "sda":"gp4",
+    "scl":"gp5"
+  },
   "layouts": {
     "LAYOUT": {
       "layout": [
