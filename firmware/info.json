@@ -1,5 +1,5 @@
 {
-  "keyboard_name": "trypadhack",
+  "keyboard_name": "originpad",
   "processor: "RP2040",
   "bootloader": "rp2040",
   "matrix_pins":{
