@@ -2,7 +2,7 @@
 
 #include_next <mcuconf.h>
 
-// GP4/GP5 gehören zu I2C0, nicht zu I2C1
+
 #undef RP_I2C_USE_I2C0
 #define RP_I2C_USE_I2C0 TRUE
 
