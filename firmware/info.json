@@ -1,5 +1,7 @@
 {
   "keyboard_name": "whypad",
+  "maintainer": "Liam",
+  "url": "https://github.com/lxqst/idea-padhack/tree/main",
   "processor": "RP2040",
   "bootloader": "rp2040",
   "matrix_pins":{
