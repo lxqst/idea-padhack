@@ -1,5 +1,5 @@
 {
-  "keyboard_name": "originpad",
+  "keyboard_name": "whypad",
   "processor": "RP2040",
   "bootloader": "rp2040",
   "matrix_pins":{
