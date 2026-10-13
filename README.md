@@ -71,7 +71,7 @@ wich i may edit in the future
 - 1x EC11 Rotary Encoder
 - 1x XIAO RP2040
 -  1x Case
-
+- PCB
 
 ## Extra stuff
 
