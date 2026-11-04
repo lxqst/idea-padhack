@@ -34,7 +34,8 @@ Schematic
 
 PCB
 
-  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/474e8b00-8a00-4d5f-bb83-fe4aad279555" />
+  <img width="500" height="400" alt="image" src="<img width="1107" height="710" alt="image" src="https://github.com/user-attachments/assets/e22188f5-f374-4e17-9216-2577e8b39291" />
+" />
 
 
 
